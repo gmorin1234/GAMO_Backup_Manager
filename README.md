@@ -2,27 +2,27 @@
 
 Download the GAMO Backup Manager executable from [[GAMO Backup Manager 0.1.40](https://drive.google.com/drive/folders/1mDjHMLS9J6eKggo8z3kfggRr31gpEIIu?usp=sharing)].
   
-## 🚀 Project Overview
+## Project Overview
 A robust, cross-platform backup management solution designed to provide secure, flexible, and intelligent data backup capabilities.
 
-## 🌟 Key Features
+## Key Features
 
-### 🔒 Advanced Security
+### Advanced Security
 - AES-256 file encryption file encryption
 - Secure cloud storage integration
 - Unique license management system
 
-### ☁️ Cloud Integration
+### Cloud Integration
 - Seamless Google Drive backup
 - OAuth 2.0 authentication
 - Flexible cloud storage options
 
-### ⏰ Smart Scheduling
+### Smart Scheduling
 - Customizable backup schedules
 - Multiple frequency options
 - Intelligent backup tracking
 
-## 🛠 Technical Highlights
+## Technical Highlights
 
 ### Technologies
 - **Language**: Python 3.13
@@ -38,7 +38,7 @@ A robust, cross-platform backup management solution designed to provide secure, 
 - Modular design
 - Event-driven architecture
 
-## 🖥 Screenshots
+## Screenshots
 
 ### Backup Configuration
 ![Backup Config](./Screenshots/backup_config.png)
@@ -50,7 +50,7 @@ Source and Destination Selection:
 Simply drag and drop folders from your file explorer directly into the "Source" and "Destination" fields.
 The system will validate the paths to ensure they are accessible and valid.
 
-## 🛡️ Data Protection
+## Data Protection
 
 **Important:** To ensure the safety of your data, always back up to a device or location that is separate from your primary device. This protects your data in case of hardware failure, accidental deletion, or other unforeseen issues.
 
@@ -116,7 +116,7 @@ Regularly verify your backups to ensure they are working correctly.
 - Suitable for users who require advanced features or have specific authorization needs.
 
 
-## 🚀 Installation and Usage
+## Installation and Usage
 1.  Download the GAMO Backup Manager executable from [[GAMO Backup Manager 0.1.41](https://drive.google.com/drive/folders/1mDjHMLS9J6eKggo8z3kfggRr31gpEIIu?usp=sharing)].
 4.  Launch the GAMO Backup Manager application.
 5.  Configure your backup settings and schedules.
